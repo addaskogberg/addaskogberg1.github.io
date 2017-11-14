@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Disqus!"
-date:   2017-11-14 13::16 +0100
+date:   2017-11-14 13::16 -0600
 categories: jekyll update
 ---
 
