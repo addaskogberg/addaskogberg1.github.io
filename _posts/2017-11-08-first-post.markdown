@@ -11,7 +11,7 @@ Gift med Benny och vi bor tillsammans med våra två barn Alexandra, 14 och Hann
 tränar jag spinning, löpning och simning. När helgerna inte är fullbokade med studier lockar museer, restauranger, biografer
 eller om vädret tillåter bad i havet. Familjen tycker om att utforska världens alla hörn och vi reser ofta tillsammans till nya resmål. 
 Jag har en livsmedelsteknisk examen från Lunds Tekniska Högskola (LTH) sen tidigare.Utbildningen omfattar många områden och riktar specifikt 
-in sig på framställan av livsmedel.
+in sig på framställan av livsmedel...
 
 
 Här en underbar solnedgång över Öresund! Soliga dagar är närheten till havet fantastisk.
