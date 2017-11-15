@@ -1,0 +1,25 @@
+* TEAM */
+	First designer: Jekyll
+	Twitter: @jekyllrb
+	From: San Francisco, CA, USA
+
+	Web designer: Adda Skogberg
+	Twitter: @adda_skogberg
+	From: Malmö, Skåne, Sweden
+
+  
+/* THANKS */
+	Technical suport and Program Coordinator: Johan Leitet
+  Twitter: ?
+  From: Kalmar, Blekinge, Sweden
+
+  Technical suport: Mats Loock
+  Twitter: ?
+  From: Kalmar, Blekinge, Sweden
+	
+
+/* SITE */
+	Last update:2017/11/15
+	Language: English / Swedish
+	Doctype:HTML5
+	IDE: Visula Studio Code, Notepad++, 
