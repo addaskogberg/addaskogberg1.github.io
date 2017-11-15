@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Questions and Answers"
-date:   2017-11-15 15:35:02 -0600
+date:   2017-11-15 02:35:02 -0600
 categories: jekyll update
 ---
 
