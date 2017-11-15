@@ -3,7 +3,7 @@ layout: post
 title:  "Firts post!"
 date:   2017-11-08 13::16 -0600
 categories: jekyll update
-image: "/assets/itsMe.jpg"
+img: "/assets/itsMe.jpg"
 ---
  
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
