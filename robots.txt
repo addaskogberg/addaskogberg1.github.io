@@ -1,3 +1,8 @@
+User-agent: *
+Disallow: /
+Allow: www.google.com  
+Allow: https://twitter.com
+Allow: https://www.facebook.com
 
 
 
