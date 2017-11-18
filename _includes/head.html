@@ -3,14 +3,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <meta property="og:title" content="Adda Skogberg" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="http://www.addaskogberg.se" />
-  <meta property="og:image:type" content="assets/Bild.jpg" />
-  <meta property="og:image:width" content="400" />
-  <meta property="og:image:height" content="300" />
-  <meta property="fb:304173463410348" content="APPID"/>
+  <meta name="author" content="Adda Skogberg" />
+  <meta property="og:title" content= "{% if page.title %} {{ page.title | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ site.title }} {% endif %}"/>
+  <meta property="og:type" content="{% if page.article %} {{ page.article | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ site.article }} {% endif %}"/>
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
 
+  <meta property="og:site_name" content="{{ site.title }}" />  
+  <meta property="og:locale" content="en_US" />
+
+  <meta name="twitter:site" content="@adda_skogberg" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+  <meta property="article:publisher" content="https://www.facebook.com/adda.skogberg" />
+ 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
