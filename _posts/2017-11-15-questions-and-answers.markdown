@@ -7,6 +7,8 @@ categories: jekyll update
 
 ### What do you think of pre-compiling your CSS?
 
+I think pre-compiled CSS is very useful and adds a great deal of benefits. It alleviates the work of styling a webpage by minimal repetition and improved maintainability.  By addressing the usage of variables, nesting and mixing it acts as a powerful tool allowing more advanced use of code for styling than seen in the traditional CSS. Re-usability will increase the productivity by decreasing the amount of code written, thus reducing the risk of faults.
+
 ### What do you think of static site generators?
 
 I think they are dreadful to work with, at least I think Jekyll is. It is very difficult to set up as it is built on Ruby and not suitable for windows. In addition, has nothing to add compared to building a site yourself. It is not very flexible, and it is very easy to get lost in the structure of the site as well as figuring out how it works.
