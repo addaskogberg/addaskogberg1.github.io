@@ -25,3 +25,4 @@ Vid storm minst lika vackert. Men det blir inget badande! :)
 
 ![Strom]({{ "/assets/storm.jpg" | absolute_url }})
 
+{% include disqus.html %}

@@ -24,3 +24,4 @@ It is an exclusion standard or protocol used to communicate with crawlers and ro
 It’s a text file declaring the people participating in the creation of the site and giving some information about them. 
 In my humans.txt file the Team behind the file consists of Jekyll and me. Technical support and guidance has been received from Johan and Mats who are mentioned in the “thanks”. The basic information about the site is describing last update, language, doctype and IDE.
 
+{% include disqus.html %}
