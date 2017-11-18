@@ -10,14 +10,15 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@adda_skogberg" />
-  <meta name="twitter:creator" content="@adda_skogberg" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}"> 
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://4856dc20-a-62cb3a1a-s-sites.googlegroups.com/site/addaskogberg/home/Bild.jpg" />
-
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:description" content="This is a test in using open graph for twitter as part of examination 1 in the course 1dv022." />
+  <meta name="twitter:title" content="An assignment in examination 1." />
+  <meta name="twitter:site" content="@adda_skogberg" />
+  <meta name="twitter:creator" content="@adda_skogberg" />
  
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
