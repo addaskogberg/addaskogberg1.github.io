@@ -11,11 +11,11 @@ I think pre-compiled CSS is very useful and adds a great deal of benefits. It al
 
 ### What do you think of static site generators?
 
-I think they are dreadful to work with, at least I think Jekyll is. It is very difficult to set up as it is built on Ruby and not suitable for windows. In addition, has nothing to add compared to building a site yourself. It is not very flexible, and it is very easy to get lost in the structure of the site as well as figuring out how it works.
+I think they are dreadful to work with, at least I think Jekyll is. It is very difficult to set up as it is built on Ruby and not suitable for windows. In addition, has very little to add compared to building a site yourself. It is not very flexible, and it is very easy to get lost in the structure of the site as well as figuring out how it works.
 
 ### What type of projects are they suitable for?
 
-I can’t really see the use, but it might be suitable for someone who isn’t familiar with HTML, CSS and JavaScript and can accept the limitations the tool offers. It could also be suitable if you are on a very regular basis setting up several similar pages with simple layout.
+It is useful for organizations or larger sites with frequent updates and changes. It is an appropriate tool for i.e. content creators who are responsible for regular changes and updates on a website. The static site generator can also act as a very useful tool for someone who isn’t familiar with HTML, CSS and JavaScript and can accept the limitations the tool offers. 
 
 ### What is robots.txt and how have you configured it for your site?
 
