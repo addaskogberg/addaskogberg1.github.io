@@ -1,3 +1,7 @@
 User-agent: *
 Disallow: /
-Allow: www.google.com
+Allow: www.google.com  
+
+User-agent: Twitterbot
+Disallow:
+
