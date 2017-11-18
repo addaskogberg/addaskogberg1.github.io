@@ -3,10 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <meta property="og:title" content="The Rock" />
-  <meta property="og:type" content="video.movie" />
-  <meta property="og:url" content="http://www.imdb.com/title/tt0117500/" />
-  <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+  <meta property="og:title" content="Adda Skogberg" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://www.addaskogberg.se" />
+  <meta property="og:image:type" content="assets/Bild.jpg" />
+  <meta property="og:image:width" content="400" />
+  <meta property="og:image:height" content="300" />
+  
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
