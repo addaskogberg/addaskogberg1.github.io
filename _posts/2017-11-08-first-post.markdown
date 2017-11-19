@@ -5,14 +5,10 @@ date:   2017-11-08 15:32:02 -0600
 categories: jekyll update
 ---
 
-Lite kort om mig!
-
-Gift med Benny och vi bor tillsammans med våra två barn Alexandra, 14 och Hanna, 12, i Västra Hamnen i Malmö. På fritiden
-tränar jag spinning, löpning och simning. När helgerna inte är fullbokade med studier lockar museer, restauranger, biografer
-eller om vädret tillåter bad i havet. Familjen tycker om att utforska världens alla hörn och vi reser ofta tillsammans till nya resmål. 
-Jag har en livsmedelsteknisk examen från Lunds Tekniska Högskola (LTH) sen tidigare.Utbildningen omfattade många områden och riktar specifikt 
-in sig på framställan av livsmedel. För närvarande läser jag webbprogrammering på Linnéuniversitetet, c# på Malmö Högskola och arbetar deltid på 
-Malmö Högskolas IT avdelning.
+Västara Hamnen
+Startskottet för utbyggnaden av Västra Hamnen blev den europeiska bostadsmässan Bo01 som arrangerades 2001. Temat för bomässan var "Framtidsstaden i det ekologiskt hållbara informations- och välfärdssamhället" och förutom utställningsområdet uppfördes en helt ny stadsdel med innovativa miljölösningar, spännande arkitektur och stadsmiljöer.
+I senare satsningar som Flagghusen, Fullriggaren och Kappseglaren är fortfarande ny miljöteknik och hållbarhet i fokus. I Fullriggaren finns bland annat Sveriges största samling av energieffektiva byggnader och det är också det största området i landet där man samlar in organiskt avfall via avfallskvarnar i varje hushåll.
+Västra Hamnen lockar besökare från hela Malmö och världen. Turning Torso, ritad av den spanske arkitekten Santiago Calatrava är en självklar attraktion med sin skruvade design och sina 190 meter över havet. Sundspromenaden har blivit ett av Malmöbornas favorittillhåll sommartid och Djuphavsbadet har tagit över en del av Ribersborgsstrandens popularitet. I Stapelbäddsparken möts skateboardentusiaster och Dockan har blivit en marina för fritidsbåtar. 
 
 
 Här en underbar solnedgång över Öresund! Soliga dagar är närheten till havet fantastisk.
