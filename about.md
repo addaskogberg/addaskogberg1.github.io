@@ -15,6 +15,4 @@ Malmö Högskolas IT avdelning.
 
 ![Bild]({{ "/assets/Bild.jpg" | absolute_url }})
 
-
-
-[jekyll-organization]: https://github.com/jekyll
+{% include disqus.html %}
