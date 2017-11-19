@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lite kort om mig!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Gift med Benny och vi bor tillsammans med våra två barn Alexandra, 14 och Hanna, 12, i Västra Hamnen i Malmö. På fritiden
+tränar jag spinning, löpning och simning. När helgerna inte är fullbokade med studier lockar museer, restauranger, biografer
+eller om vädret tillåter bad i havet. Familjen tycker om att utforska världens alla hörn och vi reser ofta tillsammans till nya resmål. 
+Jag har en livsmedelsteknisk examen från Lunds Tekniska Högskola (LTH) sen tidigare.Utbildningen omfattade många områden och riktar specifikt 
+in sig på framställan av livsmedel. För närvarande läser jag webbprogrammering på Linnéuniversitetet, c# på Malmö Högskola och arbetar deltid på 
+Malmö Högskolas IT avdelning.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Bild]({{ "/assets/Bild.jpg" | absolute_url }})
+
 
 
 [jekyll-organization]: https://github.com/jekyll
